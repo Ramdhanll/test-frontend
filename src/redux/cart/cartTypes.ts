@@ -1,0 +1,7 @@
+export const ADD_ITEM = 'add_item'
+export const MINUS_ITEM = 'minus_item'
+export const REMOVE_ITEM = 'remove_item'
+export const CLEAR_CARTS = 'clear_carts'
+export const ADD_WISHLIST = 'add_wishlist'
+export const REMOVE_WISHLIST = 'remove_wishlist'
+export const CLEAR_ALL_ITEM = 'clear_all_item'
